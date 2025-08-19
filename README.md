@@ -1,4 +1,4 @@
-Projeto MLOps - Previsão de Preços de Imóveis
+## Projeto MLOps - Previsão de Preços de Imóveis
 
 Este projeto implementa um pipeline completo de MLOps para prever preços de imóveis, demonstrando habilidades em engenharia de dados, machine learning e deploy.
 
@@ -11,16 +11,21 @@ Criar um sistema end-to-end que:
 4.  Expõe o modelo via uma API REST.
 5.  Oferece uma interface visual para interação e monitoramento.
 
-## Arquitetura
+## Arquitetura 
 
-[Dados Simulados] → [Airflow (ETL)] → [PostgreSQL]
-↓
-[dbt (Transformação)] → [Modelo ML (Scikit-learn)]
-↓
-[FastAPI (API)] → [Evidently (Monitoramento)]
-↓
+[Dados Simulados] → [Airflow (ETL)] → [PostgreSQL]  
+
+↓  
+
+[dbt (Transformação)] → [Modelo ML (Scikit-learn)]  
+
+↓  
+
+[FastAPI (API)] → [Evidently (Monitoramento)]  
+
+↓  
+
 [Streamlit (Dashboard)]
-
 
 ## Tecnologias
 
