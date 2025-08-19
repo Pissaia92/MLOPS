@@ -1,0 +1,11 @@
+name: projeto_imoveis
+config-version: 2
+version: '1.0'
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+clean-targets: ["target", "dbt_packages"]
+
+profile: projeto_imoveis
