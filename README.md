@@ -2,7 +2,7 @@ Projeto MLOps - Previsão de Preços de Imóveis
 
 Este projeto implementa um pipeline completo de MLOps para prever preços de imóveis, demonstrando habilidades em engenharia de dados, machine learning e deploy.
 
-## 🎯 Objetivo
+## Objetivo
 
 Criar um sistema end-to-end que:
 1.  Coleta e processa dados (ETL).
@@ -11,7 +11,7 @@ Criar um sistema end-to-end que:
 4.  Expõe o modelo via uma API REST.
 5.  Oferece uma interface visual para interação e monitoramento.
 
-## 🧱 Arquitetura
+## Arquitetura
 
 [Dados Simulados] → [Airflow (ETL)] → [PostgreSQL]
 ↓
@@ -22,7 +22,7 @@ Criar um sistema end-to-end que:
 [Streamlit (Dashboard)]
 
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - **Orquestração/ETL:** Apache Airflow
 - **Transformação de Dados:** dbt (data build tool)
@@ -36,7 +36,7 @@ Criar um sistema end-to-end que:
 - **Infraestrutura:** Docker, Docker Compose
 - **Linguagem:** Python
 
-## ▶️ Como Rodar Localmente
+## Como Rodar Localmente
 
 **Pré-requisitos:**
 - Docker e Docker Compose instalados.
