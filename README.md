@@ -1,4 +1,4 @@
-Real Estate Price Prediction 🏠
+Real Estate Price Prediction 🏠   https://my-webspace-qoot.vercel.app/projects/mlops-pipeline
 
 A comprehensive MLOps project for real estate price prediction. Implements a data pipeline from ETL to visualization, demonstrating skills in data engineering, machine learning, and deployment.
 
